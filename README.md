@@ -8,10 +8,8 @@
 I am Ruslan Garifullin, a second year student at Higher School of Economics, who is very passionate about writing code. I see open-source projects as an effective way to learn how to write code and educate yourself and people around in the most pleasant way possible.
 
 #### Languages
-![Typescript](https://img.shields.io/badge/-typescript-3075C1?style=for-the-badge&logo=typescript&logoColor=fff)
-![Javascript](https://img.shields.io/badge/-Javascript-c2ad07?style=for-the-badge&logo=javascript&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-Javascript-c2ad07?style=for-the-badge&logo=javascript&logoColor=fff)
 ![C#](https://img.shields.io/badge/-C%23-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=fff)
-![Python](https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&logo=python&logoColor=fff)
 
 #### Front-end development
 ![React](https://img.shields.io/badge/-react-00D8FF?style=for-the-badge&logo=react&logoColor=fff)
@@ -26,16 +24,14 @@ I am Ruslan Garifullin, a second year student at Higher School of Economics, who
 
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=fff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=fff)
 
 #### App development
 ![Electron](https://img.shields.io/badge/-Electron-47848F?style=for-the-badge&logo=electron&logoColor=fff)
 ![NodeGui](https://img.shields.io/badge/-NodeGui-41CD52?style=for-the-badge&logo=qt&logoColor=fff)
-![C++/Qt](https://img.shields.io/badge/-C++\/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=fff)
 
 ### Active projects
  - [DiscordQt](https://github.com/ruslang02/discord-qt): An open-source Discord client that aims to deliver the same experience with a lower performance cost.
- - [ReactMI](https://github.com/reactmi): A social platform for emoji lovers.
+ - [ReactMI](https://github.com/react-mi): A social platform for emoji lovers.
  - [RuzikBot](https://github.com/ruzikbot): A multi-purpose Discord bot that uses the latest techs to deliver the best experience to both server owners and users.
  - [AtomOS](https://github.com/ruslang02/atomos): A stylish Linux desktop environment written in JavaScript.
 

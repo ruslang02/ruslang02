@@ -9,6 +9,7 @@ I am Ruslan Garifullin, a second year student at Higher School of Economics, who
 
 #### Languages
 ![JavaScript](https://img.shields.io/badge/-Javascript-c2ad07?style=for-the-badge&logo=javascript&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=fff)
 ![C#](https://img.shields.io/badge/-C%23-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=fff)
 
 #### Front-end development
@@ -18,35 +19,17 @@ I am Ruslan Garifullin, a second year student at Higher School of Economics, who
 
 #### Back-end development
 ![Node.js](https://img.shields.io/badge/-node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
-
-
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=fff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
 
 #### App development
 ![Electron](https://img.shields.io/badge/-Electron-47848F?style=for-the-badge&logo=electron&logoColor=fff)
 ![NodeGui](https://img.shields.io/badge/-NodeGui-41CD52?style=for-the-badge&logo=qt&logoColor=fff)
 
 ### Active projects
- - [DiscordQt](https://github.com/ruslang02/discord-qt): An open-source Discord client that aims to deliver the same experience with a lower performance cost.
- - [ReactMI](https://github.com/react-mi): A social platform for emoji lovers.
- - [RuzikBot](https://github.com/ruzikbot): A multi-purpose Discord bot that uses the latest techs to deliver the best experience to both server owners and users.
- - [AtomOS](https://github.com/ruslang02/atomos): A stylish Linux desktop environment written in JavaScript.
-
-
-<!--
-**ruslang02/ruslang02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - **[DiscordQt](https://github.com/ruslang02/discord-qt)**: An open-source Discord client that aims to deliver the same experience with a lower performance cost.
+ - **ISConsultant**: A modern web legal advice platform using WebRTC.
+ - **[ReactMI](https://github.com/react-mi)**: A social platform for emoji lovers.
+ - **[AtomOS](https://github.com/ruslang02/atomos)**: A stylish Linux desktop environment written in JavaScript.

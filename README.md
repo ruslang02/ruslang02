@@ -30,6 +30,6 @@ I am Ruslan Garifullin, a second year student at Higher School of Economics, who
 
 ### Active projects
  - **[DiscordQt](https://github.com/ruslang02/discord-qt)**: An open-source Discord client that aims to deliver the same experience with a lower performance cost.
- - **ISConsultant**: A modern web legal advice platform using WebRTC.
+ - **[ISConsultant](https://github.com/ruslang02/isconsultant)**: A WebRTC-based Legal Advice Video Conferencing Solution.
  - **[ReactMI](https://github.com/react-mi)**: A social platform for emoji lovers.
  - **[AtomOS](https://github.com/ruslang02/atomos)**: A stylish Linux desktop environment written in JavaScript.

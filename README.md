@@ -5,7 +5,7 @@
 [![Telegram](https://img.shields.io/badge/telegram-1DA1F2?logo=telegram&style=for-the-badge&logoColor=fff)](https://t.me/ruslang02)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=fff)](https://twitter.com/ruslang02)
 
-I am Ruslan Garifullin, a second year student at Higher School of Economics, who is very passionate about writing code. I see open-source projects as an effective way to learn how to write code and educate yourself and people around in the most pleasant way possible.
+I am Ruslan Garifullin, a third year student at Higher School of Economics, who is very passionate about writing code. I see open-source projects as an effective way to learn how to write code and educate yourself and people around in the most pleasant way possible.
 
 #### Languages
 ![JavaScript](https://img.shields.io/badge/-Javascript-c2ad07?style=for-the-badge&logo=javascript&logoColor=fff)

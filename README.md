@@ -1,15 +1,14 @@
 ### 👋 Hey there!
 
 [![ruslang.xyz](https://img.shields.io/badge/ruslang.xyz-4285F4?logo=google-chrome&style=for-the-badge&logoColor=fff)](https://ruslang.xyz/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-8EBEFC?logo=linkedin&style=for-the-badge&logoColor=fff)](https://www.linkedin.com/in/ruslang02/)
 [![Telegram](https://img.shields.io/badge/telegram-1DA1F2?logo=telegram&style=for-the-badge&logoColor=fff)](https://t.me/ruslang02)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=fff)](https://twitter.com/ruslang02)
 
-I am Ruslan Garifullin, a third year student at Higher School of Economics, who is very passionate about writing code. I see open-source projects as an effective way to learn how to write code and educate yourself and people around in the most pleasant way possible.
+I am Ruslan Garifullin, a fourth-year student at Higher School of Economics, who is very passionate about writing code. I see open-source projects as an effective way to learn how to write code and educate yourself and people around in the most pleasant way possible.
 
 #### Languages
 ![JavaScript](https://img.shields.io/badge/-Javascript-c2ad07?style=for-the-badge&logo=javascript&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=fff)
 ![C#](https://img.shields.io/badge/-C%23-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=fff)
 
 #### Front-end development

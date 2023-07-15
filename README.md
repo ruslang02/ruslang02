@@ -1,6 +1,5 @@
 ### 👋 Hey there!
 
-[![ruslang.xyz](https://img.shields.io/badge/ruslang.xyz-4285F4?logo=google-chrome&style=for-the-badge&logoColor=fff)](https://ruslang.xyz/)
 [![Telegram](https://img.shields.io/badge/telegram-1DA1F2?logo=telegram&style=for-the-badge&logoColor=fff)](https://t.me/ruslang02)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=fff)](https://twitter.com/ruslang02)
 
